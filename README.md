@@ -1,2 +1,1 @@
-# Odin_Recipe_Site
-A brief website about various recipes
+# Odin_Recipe_Website
